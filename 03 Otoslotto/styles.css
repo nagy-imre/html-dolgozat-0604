@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    margin-top: 30px;
+    background-color: #e1dede;
+}
+
+h1 {
+    color: #333;
+    font-size: 3em;
+}
+
+button {
+    font-size: 2em;
+    padding: 10px 20px;
+    background-color: whitesmoke;
+}
+
+button:hover {
+    background-color: #9b9b9b;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 2em;
+}
